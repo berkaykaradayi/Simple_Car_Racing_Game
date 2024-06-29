@@ -7,12 +7,12 @@ In this game, before start racing, the Menu screen will welcome users. They can 
 ![C__Users_berka_source_repos_Simple_Car_Racing_Game_Debug_Simple_Car_Racing_Game exe 30 06 2024 00_32_19](https://github.com/berkaykaradayi/Simple_Car_Racing_Game/assets/48567842/c2c464a1-2c87-4a6f-8ea6-5d55aa49da81)
 
 
- If users choose "Instructions", program will show to user how to play the game.
+ If users select "Instructions", program will show to user how to play the game.
  
  ![C__Users_berka_source_repos_Simple_Car_Racing_Game_Debug_Simple_Car_Racing_Game exe 30 06 2024 00_48_25](https://github.com/berkaykaradayi/Simple_Car_Racing_Game/assets/48567842/8a296de0-e81b-4d61-9002-f79bc0b1ed4e)
 
  
- If users choose to "start game", then they start the game by pressing any key.
+ If users select to "start game", then they start the game by pressing any key.
  
  ![C__Users_berka_source_repos_Simple_Car_Racing_Game_Debug_Simple_Car_Racing_Game exe 30 06 2024 00_50_57](https://github.com/berkaykaradayi/Simple_Car_Racing_Game/assets/48567842/820bc25e-5f11-4bd4-b32d-b2dd67e35a5d)
 
@@ -24,3 +24,5 @@ If they crash other cars, game will end.
 
 ![Seç C__Users_berka_source_repos_Simple_Car_Racing_Game_Debug_Simple_Car_Racing_Game exe 30 06 2024 00_52_50](https://github.com/berkaykaradayi/Simple_Car_Racing_Game/assets/48567842/d4528de2-12a8-41d8-b8cd-38e71d04d7c1)
 
+
+If they want to exit the game, they need to select option: 3 to close the program.
