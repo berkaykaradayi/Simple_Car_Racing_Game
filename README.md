@@ -12,7 +12,7 @@ In this game, before start racing, the Menu screen will welcome users. They can 
  ![C__Users_berka_source_repos_Simple_Car_Racing_Game_Debug_Simple_Car_Racing_Game exe 30 06 2024 00_48_25](https://github.com/berkaykaradayi/Simple_Car_Racing_Game/assets/48567842/8a296de0-e81b-4d61-9002-f79bc0b1ed4e)
 
  
- If users select to "start game", then they start the game by pressing any key.
+ If users select to "start game", then they can start the game by pressing any key.
  
  ![C__Users_berka_source_repos_Simple_Car_Racing_Game_Debug_Simple_Car_Racing_Game exe 30 06 2024 00_50_57](https://github.com/berkaykaradayi/Simple_Car_Racing_Game/assets/48567842/820bc25e-5f11-4bd4-b32d-b2dd67e35a5d)
 
