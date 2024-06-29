@@ -124,7 +124,7 @@ void instructions() {
     system("cls");
     cout << "Instructions";
     cout << "\n----------------";
-    cout << "\n Avoid Cars by moving left or right. ";
+    cout << "\n Avoid Cars by moving left or right and gain points. If you crash them, you will loose";
     cout << "\n\n Press 'a' to move left";
     cout << "\n Press 'd' to move right";
     cout << "\n Press 'escape' to exit";
